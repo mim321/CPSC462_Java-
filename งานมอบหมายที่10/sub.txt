@@ -1,0 +1,6 @@
+cpsc351,java
+cpsc352,hci
+cpsc353,php
+cpsc354,c#
+cpsc355,oop
+cpsc356,os
