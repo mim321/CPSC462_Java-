@@ -1,0 +1,3 @@
+cpsc351,java
+cpsc352,hci
+cpsc353,php
