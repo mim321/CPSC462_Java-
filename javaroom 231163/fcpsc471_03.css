@@ -1,0 +1,5 @@
+body { background-color:#ffff00 !important; }
+p { float:left; margin:5px;}
+.burin5 { font-size:72px;color:blue;font-family:arial; } 
+.burin14 { float:left;text-align:center;width:100%;background-color:white;position:absolute;bottom:10px;} 
+@font-face{font-family:'WRTishkid2';src:url('rsp_sawasdee.ttf');font-display:swap;}
